@@ -1,1 +1,3 @@
-# Modern_Chair_Adv
+# MODERN CHAIR ## CSS
+-----------------------------------------------------------------
+ Animations & Responsiveness
